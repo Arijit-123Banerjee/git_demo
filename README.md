@@ -1,3 +1,3 @@
 #demo project
 
-This is a demo practise set for git.
+This is a demo practise set for git!
